@@ -1,0 +1,8 @@
+Subject: U bent goedgekeurd in deze gebruikersgroep
+
+Gefeliciteerd {USERNAME},
+
+U bent goedgekeurd in de "{GROUP_NAME}" groep op "{SITENAME}".
+Deze actie is uitgevoerd door een groepsleider of de site beheerder. Neem contact met hen op voor meer informatie.
+
+{EMAIL_SIG}
